@@ -184,3 +184,19 @@ Limitações:
 - Overfitting.
 
 Conclui-se que, para o tamanho do dataset utilizado, a CNN 1 apresentou melhor equilíbrio entre complexidade e capacidade de generalização, sendo escolhida como modelo final do AstraVision.
+
+--- 
+
+## Modelo Treinado
+
+O arquivo do modelo treinado não foi incluído diretamente no repositório devido às limitações de tamanho do GitHub.
+
+O modelo pode ser obtido através do link abaixo:
+
+**Modelo CNN 1 (AstraVision):**
+https://www.dropbox.com/scl/fi/y4ao5i93000pe07dj6tbk/astravision_weights.weights.h5?rlkey=ubgtdi388fnrns6qhrjwsm9fu&st=ht34iyiv&dl=0
+
+---
+
+## Link para o vídeo
+
