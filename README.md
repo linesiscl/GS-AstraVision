@@ -201,6 +201,6 @@ https://www.dropbox.com/scl/fi/y4ao5i93000pe07dj6tbk/astravision_weights.weights
 
 ## Link para o vídeo explicativo
 
-https://youtu.be/Hn_nydXUQcQ
+[Clique aqui](https://youtu.be/Y01KowpSQIg)
 
 
