@@ -74,6 +74,7 @@ As seguintes etapas foram aplicadas:
 
 Essas técnicas aumentaram a variabilidade do conjunto de treinamento e ajudaram a reduzir overfitting.
 
+> Observação: as imagens do dataset nesse reposítório compõem apenas uma pequena parte do dataset utilizado no projeto, pois devido às limitações de tamanho de arquivo do Github, não foi possível colocar todas
 ---
 
 ## Treinamento das CNNs
@@ -198,5 +199,8 @@ https://www.dropbox.com/scl/fi/y4ao5i93000pe07dj6tbk/astravision_weights.weights
 
 ---
 
-## Link para o vídeo
+## Link para o vídeo explicativo
+
+https://youtu.be/Hn_nydXUQcQ
+
 
